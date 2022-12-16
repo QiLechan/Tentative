@@ -16,7 +16,7 @@ window.Config = {
   ShowLink: true,
 
   // 导航栏菜单
-  /*Navi: [
+  Navi: [
     {
       text: 'Homepage',
       url: 'https://status.org.cn/'
@@ -30,4 +30,4 @@ window.Config = {
       url: 'https://abo.xyz/'
     },
   ],
-};*/
+};
