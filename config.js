@@ -19,15 +19,15 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://status.org.cn/'
+      url: 'https://www.qileoffice.top/'
     },
     {
       text: 'GitHub',
       url: 'https://github.com/yb/uptime-status'
-    },
+    }/*,
     {
       text: 'Blog',
       url: 'https://abo.xyz/'
-    },
+    },*/
   ],
 };
